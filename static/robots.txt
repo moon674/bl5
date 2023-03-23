@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /404*
+Disallow: /p/*
+Disallow: /page/*
+
+Host: https://wappur.my.id
+
+Sitemap: https://wappur.my.id/sitemap-index.xml
+
